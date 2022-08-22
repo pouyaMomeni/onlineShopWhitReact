@@ -1,0 +1,15 @@
+#con-1 {
+    width: 500px;
+    background-color: #3c3c3c;
+}
+
+
+
+#but-1:hover {
+    background-color: rgba(202, 28, 187, 0);
+    color: #0493bd;
+}
+
+#s {
+    height: 10px;
+}

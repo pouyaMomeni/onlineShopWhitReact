@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Vazir;
+    src: url('../font/Vazir-Medium.ttf');
+}
+
+/* #root {
+    font-family: Vazir;
+} */
+* {
+    font-family: Vazir;
+}
+
+#number-dir {
+    direction: ltr;
+}
+
+#logo-pic {
+    background-color: rgba(202, 28, 187, 0);
+    width: 50px;
+    height: 50px;
+}

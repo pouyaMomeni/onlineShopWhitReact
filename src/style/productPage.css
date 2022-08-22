@@ -1,0 +1,12 @@
+#r-pp {
+    height: 400px;
+}
+
+#img-pp {
+    /* width: 50%;
+    height: 80%;
+    margin-right: 100px; */
+    object-fit: contain;
+    max-width: 60%;
+    height: 60%;
+}

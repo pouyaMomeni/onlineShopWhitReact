@@ -1,0 +1,40 @@
+#img-product {
+    width: auto;
+    height: 300px;
+}
+
+#box-1 {
+    width: 28%;
+}
+
+#sec-pro {
+    height: auto;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-link {
+    background-color: #212529;
+    color: white;
+}
+
+.page-item {
+    background-color: #212529;
+    /* color: white; */
+}
+
+.page-item:hover {
+    color: #212529;
+}
+
+.page-link:hover {
+    color: #212529;
+}
+
+a {
+    color: whitesmoke;
+}
